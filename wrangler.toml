@@ -1,0 +1,9 @@
+cat > wrangler.toml <<'TOML'
+name = "pocket-cards-proxy"
+main = "src/index.js"
+compatibility_date = "2024-09-01"
+
+[vars]
+# point this at your GitHub Pages data folder
+DATA_BASE = "https://ntackett21.github.io/pocket-data/data"
+TOML
