@@ -1,0 +1,12 @@
+[
+  {
+    "code": "A1",
+    "name": "Launch Set",
+    "series": "Pocket",
+    "total": 220,
+    "releaseDate": "2024-10-30",
+    "released": true,
+    "symbolImage": "https://example.com/A1-symbol.png",
+    "logoImage": "https://example.com/A1-logo.png"
+  }
+]
