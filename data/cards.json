@@ -1,0 +1,24 @@
+[
+  {
+    "id": "A1-045",
+    "name": "Pikachu",
+    "setCode": "A1",
+    "setName": "Launch Set",
+    "number": "045",
+    "rarity": "Rare",
+    "type": "Lightning",
+    "subtypes": ["Basic"],
+    "hp": 70,
+    "attacks": [
+      {"name":"Quick Attack","cost":["Colorless"],"damage":"10+","text":"Flip a coin…"}
+    ],
+    "weaknesses":[{"type":"Fighting","value":"×2"}],
+    "retreatCost":["Colorless"],
+    "illustrator":"Someone",
+    "legalities":{"pocket":"legal"},
+    "images":{"small":"https://.../small.png","large":"https://.../large.png"},
+    "releaseDate":"2024-10-30",
+    "released": true,
+    "language":"en"
+  }
+]
